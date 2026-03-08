@@ -24,3 +24,6 @@ Before compiling, make sure to set the external oscillator frequency to match th
 **Line:** `HSE_VALUE = 8000000;`  
 
 The STM32F4 Discovery board uses an **8 MHz external crystal oscillator**, so this value must be set correctly for proper system clock operation.
+
+## Demo Video
+https://youtube.com/shorts/HB0FnS0-874
