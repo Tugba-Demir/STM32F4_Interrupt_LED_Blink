@@ -1,6 +1,6 @@
 # STM32F4_Interrupt_LED_Blink
 
-Demonstration of EXTI, IRQ, NVIC, and ISR flow with LED toggle on STM32F4.
+Demonstration of EXTI, IRQ, NVIC, and ISR flow with LED toggle on STM32F4.(Register Level)
 
 ## Overview
 This project shows how an external button press triggers an **external interrupt (EXTI)**, which generates an **IRQ** handled by the **NVIC**, invoking the **ISR (Interrupt Service Routine)** to toggle an LED. It visually demonstrates the interrupt handling flow in a Cortex-M MCU.
