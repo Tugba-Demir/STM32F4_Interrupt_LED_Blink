@@ -27,3 +27,7 @@ The STM32F4 Discovery board uses an **8 MHz external crystal oscillator**, so th
 
 ## Demo Video
 https://youtube.com/shorts/HB0FnS0-874
+
+## Documentation
+   1- STM32F407 Reference manual
+   2- STM32 Programming manual
